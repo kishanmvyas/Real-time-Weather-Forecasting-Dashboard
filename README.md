@@ -22,7 +22,7 @@ This project presents a **real-time interactive weather forecasting dashboard** 
   
 ## 📽️ Preview
 
-![Dashboard Screenshot](./Screenshot%202025-07-27%20030702.png)
+![Dashboard Screenshot](https://github.com/kishanmvyas/Real-time-Weather-Forecasting-Dashboard/blob/main/Weather%20Forecasting%20Dashboard.png)
 
 ## 🚀 How to Use
 
