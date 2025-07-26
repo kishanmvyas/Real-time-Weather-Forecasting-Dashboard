@@ -40,8 +40,8 @@ This project presents a **real-time interactive weather forecasting dashboard** 
 ## 📬 Contact
 
 For feedback or collaboration:
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)
+📧 kishanv9956@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kishanmvyas)
 
 ---
 
